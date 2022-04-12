@@ -1,0 +1,4 @@
+Hallo pa, salam kenal nama saya dedy saputra dari bandung
+
+resolusi saya :
+-Membuat website menggunakan framework javascript
